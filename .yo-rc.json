@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "delete-list-items",
+    "libraryId": "e13c43c6-2333-429b-8974-00ce105cc171",
+    "environment": "spo"
+  }
+}
